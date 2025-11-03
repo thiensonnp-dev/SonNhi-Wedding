@@ -333,6 +333,7 @@ body {
 /* AMINATION */
 .script-font {
     font-family: var(--script-font);
+    font-size: 25px;
 }
 .blur {
     backdrop-filter: blur(4px);
@@ -658,7 +659,7 @@ main{
     );
 }
 .banner-title {
-    font-size: var(--larger-title);
+    font-size: 50px;
 }
 .banner-title span {
     font-family: var(--script-font);
@@ -1097,7 +1098,7 @@ main{
     justify-content: center;
     font-weight: bold;
     color: var(--primary-color);
-    font-size: var(--biger-size);
+    font-size:30px;
     font-family: var(--secondary-font);
 }
 .invi_date_text, .invi_year_text {
